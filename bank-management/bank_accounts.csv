@@ -1,0 +1,4 @@
+name,customer_id,phone_number,account_number,balance,account_type,transaction_history,interest_rate,overdraft_limit
+hiral,12,2675898046,13,12345.0,savings,"deposited: +122.0,withdrawn: -122.0",5.0,
+shama,16,8790967851,18,789922.0,savings,"deposited: +45.76,withdrawn: -0.76",10.0,
+hiral,123,0909090909,122,44.0,savings,,3.0,

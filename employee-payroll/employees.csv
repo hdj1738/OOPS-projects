@@ -1,0 +1,3 @@
+name,employee_id,department,employee_type,monthly_salary,hours_worked,hourly_rate
+nitya,13,hi,parttimeemployee,,0,67.0
+wenh,124,it,fulltimeemployee,123333.0,,
